@@ -269,13 +269,13 @@ body {
         top: 0;
         background-color: #9D2929;
         width: 250px;
-        padding-bottom: 40px;
+        padding-bottom: 20px;
     }
     .header-active {
         display: flex;
     }
     .logo {
-        margin-bottom: 25px;
+        margin-bottom: 20px;
     }
     .menu-list {
         margin: auto;
